@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ot4jwcSIewfkBTDMH7Y4fLQvG/f92TdmgDqW6I+Kl98=",
+  "Source": "ApiRestBilling",
+  "BasePath": "_content/ApiRestBilling",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
