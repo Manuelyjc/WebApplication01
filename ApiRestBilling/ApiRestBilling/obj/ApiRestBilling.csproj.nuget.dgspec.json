@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ApiRestBilling\\ApiRestBilling\\ApiRestBilling\\ApiRestBilling.csproj": {}
+    "C:\\WebApplication01\\ApiRestBilling\\ApiRestBilling\\ApiRestBilling.csproj": {}
   },
   "projects": {
-    "C:\\ApiRestBilling\\ApiRestBilling\\ApiRestBilling\\ApiRestBilling.csproj": {
+    "C:\\WebApplication01\\ApiRestBilling\\ApiRestBilling\\ApiRestBilling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ApiRestBilling\\ApiRestBilling\\ApiRestBilling\\ApiRestBilling.csproj",
+        "projectUniqueName": "C:\\WebApplication01\\ApiRestBilling\\ApiRestBilling\\ApiRestBilling.csproj",
         "projectName": "ApiRestBilling",
-        "projectPath": "C:\\ApiRestBilling\\ApiRestBilling\\ApiRestBilling\\ApiRestBilling.csproj",
+        "projectPath": "C:\\WebApplication01\\ApiRestBilling\\ApiRestBilling\\ApiRestBilling.csproj",
         "packagesPath": "C:\\Users\\Vc669\\.nuget\\packages\\",
-        "outputPath": "C:\\ApiRestBilling\\ApiRestBilling\\ApiRestBilling\\obj\\",
+        "outputPath": "C:\\WebApplication01\\ApiRestBilling\\ApiRestBilling\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vc669\\AppData\\Roaming\\NuGet\\NuGet.Config",
